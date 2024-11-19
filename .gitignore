@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+env
+evaluation_metrics.csv
+model_predictions.csv
+random_forest_model.pkl
+transaction_dataset.csv
